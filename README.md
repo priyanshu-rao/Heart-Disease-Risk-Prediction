@@ -1,5 +1,5 @@
  Prediciting heart diseases risk among all age groups using
--KNN
--SVC
--DECISION TREE 
--RANDOM FOREST CLASSIFIER 
+1) KNN
+2) SVC
+3) DECISION TREE 
+4) RANDOM FOREST CLASSIFIER 
